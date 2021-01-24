@@ -865,3 +865,390 @@ JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1611497539303	geckodriver	INFO	Listening on 127.0.0.1:61009
+1611497542357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofile9RL8xI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611497546140	Marionette	INFO	Listening on port 61019
+1611497546654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611497546657	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"117.197.117.242:8080","httpProxy":"117.197.117.242:8080","sslProxy":"117.197.117.242:8080"}
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611497571612	Marionette	INFO	Stopped listening on port 61019
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611497637321	geckodriver	INFO	Listening on 127.0.0.1:61066
+1611497640506	mozrunner::runner	INFO	Running command: "C:\\P1611497640524	mozrunner::runner	INFO	Running command: "C:\\P1611497640545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefoxCan't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't findCan't find symbol 'eglSwapBuffersWconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1611497671577	Marionette	INFO	Listening on port 61129
+1611497687007	Marionette	INFO	Stopped listening on port 61129
+1497686268	Marionette	INFO	Stopped listening on port 61131
+settings initialised: {"proxyType":"manual","ftpProxy":"117.197.117.242:8080","httpProxy"JavaScript error: resource://activity-stream/lib/ASRouter.jsJavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611497685213	Marionette	INFO	Stopped listening on port 61134
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+losing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1611497684405	Marionette	INFO	Stopped listening on port 61131
+1611497741924	geckodriver	INFO	Listening on 127.0.0.1:61483
+1611497745003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofile2qvT5v"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611497761967	Marionette	INFO	Listening on port 61510
+1611497762877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611497762886	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.250.157.34:44611","httpProxy":"103.250.157.34:44611","sslProxy":"103.250.157.34:44611"}
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611497866674	Marionette	INFO	Stopped listening on port 61511
+1611498295266	geckodriver	INFO	Listening on 127.0.0.1:62084
+1611498298375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileB02JjU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 244: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsINavHistoryService.removeObserver]
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: resource://gre/modules/PlacesDBUtils.jsm, line 1256: TypeError: (intermediate value)[0] is undefined
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 196: Error: Data is not ready.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine yandex@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine priceru@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine mailru@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ozonru@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 688))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611498331925	geckodriver	INFO	Listening on 127.0.0.1:62257
+1611498335066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofilezTy8iK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611498351385	Marionette	INFO	Listening on port 62293
+1611498351677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611498351681	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.250.157.34:44611","httpProxy":"103.250.157.34:44611","sslProxy":"103.250.157.34:44611"}
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611498485243	Marionette	INFO	Stopped listening on port 622961611498485515	Marionette	INFO	Stopped listening on port 62294
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t=9&saldr=aa&abxe=1&prev_fmts=0x0&nras=1&correlator=81107046126&frm=20&pv=1&ga_vid=479164010.1611498440&ga_sid=1611498440&ga_hid=1250240758&ga_fc=0&u_tz=120&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1040&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=223&ady=16&biw=1267&bih=895&scr_x=0&scr_y=0&eid=42530671%2C21068769%2C21068944&oid=3&pvsid=1026826323950207&pem=673&rx=0&eae=0&fc=1920&brdim=4%2C4%2C4%2C4%2C1920%2C0%2C1296%2C975%2C1284%2C895&vis=1&rsz=%7C%7CleE%7C&abl=CS&pfx=0&fu=8320&bc=31&ifi=1&uci=a!1&fsb=1&xpc=XA5pUWwm6r&p=https%3A//2ip.ua&dtd=8289, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?guci=2.2.0.0.2.2.0.0&client=ca-pub-2871984509315629&output=html&h=90&slotname=3172940050&adk=3339956655&adf=4135221577&pi=t.ma~as.3172940050&w=856&fwrn=4&fwrnh=100&lmt=1611498395&rafmt=2&psa=0&format=856x90&url=https%3A%2F%2F2ip.ua%2Fru%2F&flash=0&fwr=0&fwrattr=true&rpe=1&resp_fmts=2&wgl=1&dt=1611498431797&bpp=8&bdt=36115&idt=8279&shv=r20210120&cbv=r20190131&ptt=9&saldr=aa&abxe=1&prev_fmts=0x0&nras=1&correlator=81107046126&frm=20&pv=1&ga_vid=479164010.1611498440&ga_sid=1611498440&ga_hid=1250240758&ga_fc=0&u_tz=120&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1040&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=223&ady=16&biw=1267&bih=895&scr_x=0&scr_y=0&eid=42530671%2C21068769%2C21068944&oid=3&pvsid=1026826323950207&pem=673&rx=0&eae=0&fc=1920&brdim=4%2C4%2C4%2C4%2C1920%2C0%2C1296%2C975%2C1284%2C895&vis=1&rsz=%7C%7CleE%7C&abl=CS&pfx=0&fu=8320&bc=31&ifi=1&uci=a!1&fsb=1&xpc=XA5pUWwm6r&p=https%3A//2ip.ua&dtd=8289, line 1: ReferenceError: googqscp is not defined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1611498546013	Marionette	INFO	Stopped listening on port 62295
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611499740981	geckodriver	INFO	Listening on 127.0.0.1:62976
+1611499744032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofilej8dxtj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611499774523	Marionette	INFO	Listening on port 63012
+1611499774888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611499774893	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.51.13.75:3128","httpProxy":"13.51.13.75:3128","sslProxy":"13.51.13.75:3128"}
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'egl1611499844183	Marionette	INFO	Stopped listening on port 63019
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+sages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+el closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611499866533	geckodriver	INFO	Listening on 127.0.0.1:63544
+1611499869596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofilel5Da0x"
+1611499874112	geckodriver	INFO	Listening on 127.0.0.1:63606
+1611499877208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileu0m4oQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't findCan't find symbol 'eglSwapBuffersWconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1611499907032	Marionette	INFO	Listening on port 63642
+161141611499907452	Marionette	INFO	Listening on port 63651
+1611499907691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611499907695	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.51.13.75:3128","htJavaScript warning: https://coubsecureassets-a.akamaihd.net/JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 37211: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 50127: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 54563: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 55099: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 56688: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 58315: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersW1611499948124	Marionette	INFO	Stopped listening on port 63641611499952444	Marionette	INFO	Stopped listening on port 63651
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 37211: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+send/recv, messages will be lost
+
+1611500098693	geckodriver	INFO	Listening on 127.0.0.1:64194
+1611500101674	mozrunner::runner	INFO	Running command: "C:\\P1611500101916	mozrunner::runner	INFO	Running command: "C:\\P1611500102001	mozrunner::runner	INFO	Running command: "C:\\P1611500102205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileuqUZtv"
+C:\\Users\\k2\\AppData1611500102183	mozrunner::runner	INFO	Running command: "C:\\P1611500102206	mozrunner::runner	INFO	Running command: "C:\\P1611500102451	mozrunner::runner	INFO	Running command: "C:\\P1611500102693	mozrunner::runner	INFO	Running command: "C:\\P1611500102885	mozrunner::runner	INFO	Running command: "C:\\P1611500103365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "1611500103613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData1611500103616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileCdP5gz"
+unning command: "C:\\P1611500103605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileym6WGU"
+1611500450273	geckodriver	INFO	Listening on 127.0.0.1:64986
+1611500454377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileWZRuC7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+me=PContent::Msg_GraphicsError) Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1611500479998	geckodriver	INFO	Listening on 127.0.0.1:65094
+1611500483002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofilevq2F2A"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1611500507101	Marionette	INFO	Listening on port 65136
+161151611500512696	Marionette	INFO	Listening on port 65131
+1611500512818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611500512824	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.51.13.75:3128","httpProxy":"13.51.13.75:3128","sslProxy":"13.51.13.75:3128"}
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 37211: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 50127: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 54563: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 55099: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 56688: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 58315: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersW1611500549547	Marionette	INFO	Stopped listening on port 65131611500552256	Marionette	INFO	Stopped listening on port 65131
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 37211: unreachable code after return statement
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+line 5375: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+
+FO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't findCan't find symbol 'eglSwapBuffersWconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611500571562	Marionette	INFO	Listening on port 49279
+1611500572117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611500572122	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.51.13.75:3128","httpProxy":"13.51.13.75:3128","sslProxy":"13.51.13.75:3128"}
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 37211: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 50127: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 54563: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 55099: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 56688: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 58315: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1611500609892	Marionette	INFO	Stopped listening on port 49279
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 37211: unreachable code after return statement
+JavaScript error: resource:///modules/sessionstore/SessionStJavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5375: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+", "(unknown module)"))
+1611500631896	Marionette	INFO	Listening on port 49832
+1611500632046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611500632052	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.51.13.75:3128","httpProxy":"13.51.13.75:3128","sslProxy":"13.51.13.75:3128"}
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 37211: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 50127: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 54563: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 55099: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 56688: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c6Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't findCan't find symbol 'eglSwapBuffersW1611500670860	Marionette	INFO	Stopped listening on port 4983161JavaScript warning: https://coubsecureassets-a.akamaihd.net/JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c6console.error: (new Error("SessionFile is closed", "resourceconsole.error: (new Error("SessionFile is closed",
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+glSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1611500717125	Marionette	INFO	Listening on port 50393
+1611500717295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611500717301	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.51.13.75:3128","httpProxy":"13.51.13.75:3128","sslProxy":"13.51.13.75:3128"}
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 37211: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 50127: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 54563: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 55099: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 56688: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a9741611500719648	Marionette	INFO	Stopped listening on port 5040JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 37211: unreachable code after return statement
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=2924c5d9000","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3341,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:353","chrome://globaconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611500768203	Marionette	INFO	Listening on port 50963
+essionCookies.jsm, line 198: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICookieManager.sessionCookies]
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+54511	Marionette	INFO	Stopped listening on port 50393
+
+###!!! [Child][RunMessage] Error: Channel closing: too lateconsole.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1611500763804	Marionette	INFO	Stopped listening on port 50409
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
