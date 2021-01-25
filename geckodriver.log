@@ -1252,3 +1252,533 @@ essionCookies.jsm, line 198: NS_ERROR_NOT_AVAILABLE: Component returned failure 
 ###!!! [Child][RunMessage] Error: Channel closing: too lateconsole.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
 1611500763804	Marionette	INFO	Stopped listening on port 50409
 A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1611582088288	geckodriver	INFO	Listening on 127.0.0.1:49935
+1611582091481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofilegh9kFY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611582152532	Marionette	INFO	Listening on port 49979
+1611582324664	Marionette	INFO	Stopped listening on port 49979
+nored for this session
+1611582142472	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 37211: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 50127: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 54563: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 55099: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 56688: unreachable code after return statement
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 58315: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1611582198932	Marionette	INFO	Stopped listening on port 49978
+JavaScript warning: https://coubsecureassets-a.akamaihd.net/assets/site-244210f4db47d53add8425c6b82cd32c39685a974bb230c6d1514374b3c0c67b.js, line 37211: unreachable code after return statement
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=2671ba1JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5375: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+n mconsole.warn: SearchSettings: "get: No settings file exists, new p1611582315862	Marionette	INFO	Stopped listening on port 50416
+ionette	INFO	Listening on port 50407
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: AbortError: IndexedDB: main/tippytop console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: "Could not load engine yandex@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine priceru@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine mailru@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ozonru@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: 2147500036
+1611582984952	geckodriver	INFO	Listening on 127.0.0.1:51221
+1611582988970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofiledQ7ZVJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611583052183	Marionette	INFO	Listening on port 51261
+1611583085334	Marionette	INFO	Stopped listening on port 51261
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+l","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1611583071112	Marionette	INFO	Stopped listening on port 51266
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ofile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1611583130430	geckodriver	INFO	Listening on 127.0.0.1:51627
+1611583133437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofile1KHyFE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611583197238	Marionette	INFO	Listening on port 51672
+1611583221090	Marionette	INFO	Stopped listening on port 51672
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+l","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611583203762	Marionette	INFO	Stopped listening on port 51666
+
+###!!! [Child][RunMessage] Er1611583214169	Marionette	INFO	Stopped listening on port 51671
+ost
+
+1611583277592	geckodriver	INFO	Listening on 127.0.0.1:52040
+1611583280709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofilezXVXk3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611583332364	Marionette	INFO	Listening on port 52082
+1611583332787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611583332795	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611583350505	Marionette	INFO	Stopped listening on port 52080
+console.log: "Request to connec1611583368707	Marionette	INFO	Stopped listening on port 52082
+[Parent 13704, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+/devtools/shared/protocol/Front.js:288:14\ngenera1611583365326	Marionette	INFO	Stopped listening on port 52081
+protocol/Front/FrontClassWithSpec.js:46:19\nstartListeners@resource://devtools/client/fronts/webconsole.js:424:34\nattachConsole@resource://devtools/client/fronts/targets/target-mixin.js:425:26\n"
+JavaScript error: resource://devtools/client/framework/toolbox-hosts.js, line 60: TypeError: this.hostTab is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611583393841	geckodriver	INFO	Listening on 127.0.0.1:52449
+1611583396976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileu3Rmf1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611583447020	Marionette	INFO	Listening on port 52493
+1611583447634	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611583447644	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"11611583453283	Marionette	INFO	Listening on port 52489
+1611583454178	Marionette	1611583476862	Marionette	INFO	Stopped listening on port 52493
+*** UTM:SVC TimerManager:regist1611583473403	Marionette	INFO	Stopped listening on port 52488
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+wapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1611583483534	Marionette	INFO	Stopped listening on port 52489
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611583828384	geckodriver	INFO	Listening on 127.0.0.1:49884
+1611583831551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileE0Kem1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611583889784	Marionette	INFO	Listening on port 49924
+1611583891865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611583891873	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1611583931635	Marionette	INFO	Stopped listening on port 49924
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+v, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611583964853	geckodriver	INFO	Listening on 127.0.0.1:50311
+1611583967980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileJ4U216"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't findCan't find symbol 'eglSwapBuffersWconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1611584015488	Marionette	INFO	Listening on port 50352
+1611584016070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611584016510	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611584228218	Marionette	INFO	Stopped listening on port 50349
+
+###!!! [Child][RunMessage] Er1611584369693	Marionette	INFO	Stopped listening on port 50352
+1584359109	Marionette	INFO	Stopped listening on port 50350
+JSWindowActorChild cannot send at the moment
+
+###!!! [Child][MessageChannel]1611584369741	Marionette	INFO	Stopped listening on port 50353
+lightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1611584370905	Marionette	INFO	Stopped listening on port 50355
+1611584782206	geckodriver	INFO	Listening on 127.0.0.1:51149
+1611584785081	mozrunner::runner	INFO	Running command: "C:\\P1611584785149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611584832791	Marionette	INFO	Listening on port 51187
+1611584832914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611584832920	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611584903882	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScrconsole.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=16ff0437800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkou1611584913522	Marionette	INFO	Stopped listening on port 51195
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5375: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+onstruct:1012","chrome://global/content/elements/browser-custom-element.js:connectedCallback:291","chrome://browser/content/tabbrowser.js:_setupInit1611584910893	Marionette	INFO	Stopped listening on port 51187
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ge
+1611584909996	Marionette	INFO	Stopped listening on port 51186
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is 1611584920147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileWPG6KU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611584936710	Marionette	INFO	Listening on port 51595
+1611584937323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611584937331	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611584961831	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611585046302	Marionette	INFO	Stopped listening on port 51592
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611586756441	geckodriver	INFO	Listening on 127.0.0.1:51786
+1611586759505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileT7tv0L"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611586769721	Marionette	INFO	Listening on port 51801
+1611586770254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611586770260	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611586777891	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker25, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:617:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:168:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\nbaseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:103:13\ndestroy@resource://devtools/shared/protocol/Front.js:67:10\ndestroy@resource://devtools/client/fronts/inspector.js:96:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:604:17\n", "resource://devtools/shared/protocol/Front.js", 99))
+1611587015478	Marionette	INFO	Stopped listening on port 51802
+1611587065510	geckodriver	INFO	Listening on 127.0.0.1:51992
+1611587068521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofilebg44xs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611587084546	Marionette	INFO	Listening on port 52008
+1611587085123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611587085131	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611587096275	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.child3/domnode200, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:94:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+
+1611587426622	Marionette	INFO	Stopped listening on port 52008
+1611587489985	geckodriver	INFO	Listening on 127.0.0.1:52229
+1611587493034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofilerW230r"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611587511669	Marionette	INFO	Listening on port 52245
+1611587512068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611587512076	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611587525614	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611587570068	Marionette	INFO	Stopped listening on port 52246
+1611587624462	geckodriver	INFO	Listening on 127.0.0.1:52434
+1611587627551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileYUANFG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611587646808	Marionette	INFO	Listening on port 52450
+1611587647743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611587647841	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611587665327	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1611587725509	Marionette	INFO	Stopped listening on port 52451
+1611587726934	geckodriver	INFO	Listening on 127.0.0.1:52604
+1611587729929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileqvGyDv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611587746687	Marionette	INFO	Listening on port 52622
+1611587747468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611587747473	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611587760515	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611588231463	Marionette	INFO	Stopped listening on port 52622
+[Parent 9644, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+ofile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofiletctqsC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611587933238	Marionette	INFO	Listening on port 52797
+1611587933656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611587933667	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611587941756	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611588007715	Marionette	INFO	Stopped listening on port 52797
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611588039828	geckodriver	INFO	Listening on 127.0.0.1:52876
+1611588042751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileSfxNpj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611588060392	Marionette	INFO	Listening on port 52895
+1611588060507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611588060514	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611588073015	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611588243356	Marionette	INFO	Stopped listening on port 52895
+/recv
+
+1611588233836	Marionette	INFO	Stopped listening on port 52892
+1611588258159	geckodriver	INFO	Listening on 127.0.0.1:53077
+1611588260903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofiledT9FUz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611588281358	Marionette	INFO	Listening on port 53092
+1611588281724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611588281735	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611588296343	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611588395608	Marionette	INFO	Stopped listening on port 53091611588397455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofile8sj4jd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611588414747	Marionette	INFO	Listening on port 53263
+1611588415365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611588415374	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611588425416	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611588535471	Marionette	INFO	Stopped listening on port 53262
+/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1611588536270	Marionette	INFO	Stopped listening on port 53263
+-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofile1Uf0Ay"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5375: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1611588537152	geckodriver	INFO	Listening on 127.0.0.1:53463
+1611588540152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileO9RwhP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611588556012	Marionette	INFO	Listening on port 53481
+1611588556149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611588556160	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611588570269	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611588679253	Marionette	INFO	Stopped listening on port 53478
+error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/page-style.js:573:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:573:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:573:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/page-style.js:573:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:573:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:573:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+1611588682279	Marionette	INFO	Stopped listening on port 53481
+1611588720504	geckodriver	INFO	Listening on 127.0.0.1:53650
+1611588723490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofile3hBdt5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611588739930	Marionette	INFO	Listening on port 53663
+1611588740274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611588740291	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611588754048	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611588833732	Marionette	INFO	Stopped listening on port 53661611588835545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofilewOQKgv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611588852839	Marionette	INFO	Listening on port 53828
+1611588853198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611588853205	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611588873442	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611589022755	Marionette	INFO	Stopped listening on port 53828
+nput source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2093:35
+addAllSources@resource://devtools/server/actors/thread.js:1476:14
+sources@resource://devtools/server/actors/thread.js:1482:10
+handler@resource://devtools/shared/protocol/Actor.js:172:37
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:68:16
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/page-style.js:573:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:573:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:573:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1005:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 361))
+1611589020019	Marionette	INFO	Stopped listening on port 53831
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611589030237	geckodriver	INFO	Listening on 127.0.0.1:54004
+1611589033322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofilex13bwW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 11384, Gecko_IOThread] WARNING: file /builds/wo1611589046030	Marionette	WARN	TLS certificate errors will be ignored1611589051060	Marionette	INFO	Listening on port 54021
+1611589051485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611589051501	Marionette	INFO	Proxy settings initi1611589061933	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 12132, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common1611589204359	Marionette	INFO	Stopped listening on port 54021
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+messages will be lost
+
+1611589203789	geckodriver	INFO	Listening on 127.0.0.1:54173
+1611589206716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofilejoa3Zm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611589225798	Marionette	INFO	Listening on port 54190
+1611589226345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611589226357	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611589241098	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611589611554	Marionette	INFO	Stopped listening on port 54190
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611589503376	geckodriver	INFO	Listening on 127.0.0.1:54374
+1611589506444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileM5A5EI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611589523914	Marionette	INFO	Listening on port 54391
+1611589523996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611589524005	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611589543067	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611589562053	Marionette	INFO	Stopped listening on port 54391
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611589648245	geckodriver	INFO	Listening on 127.0.0.1:54557
+1611589651218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileDOFCux"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611589666707	Marionette	INFO	Listening on port 54575
+1611589667055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611589667148	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611589721285	Marionette	INFO	Stopped listening on port 54575
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ing on port 54574
+1611589814711	geckodriver	INFO	Listening on 127.0.0.1:54716
+1611589817738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofilelnXIuP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611589834766	Marionette	INFO	Listening on port 54732
+1611589835198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611589835205	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611589872754	Marionette	INFO	Stopped listening on port 54732
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611589934255	geckodriver	INFO	Listening on 127.0.0.1:54891
+1611589937351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofileXGbRMB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611589953834	Marionette	INFO	Listening on port 54907
+1611589954285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611589954339	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611589967716	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611590000532	Marionette	INFO	Stopped listening on port 54907
+1611590084406	geckodriver	INFO	Listening on 127.0.0.1:55071
+1611590087418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\k2\\AppData\\Local\\Temp\\rust_mozprofilecq2aIs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611590104277	Marionette	INFO	Listening on port 55085
+1611590104796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611590104851	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","httpProxy":"13.49.21.173:123","sslProxy":"13.49.21.173:123"}
+1611590119652	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1611590172137	Marionette	INFO	Stopped listening on port 55085
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611590296245	geckodriver	INFO	Listening on 127.0.0.1:55307
+1611590299293	mozrunner::runner	INFO	Running command: "C:\\P1611590299355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't findCan't find symbol 'eglSwapBuffersWconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1611590318270	Marionette	INFO	Listening on port 55321
+161151611590324389	Marionette	INFO	Listening on port 55325
+1611590324747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611590324756	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"13.49.21.173:123","ht1611590336853	Marionette	WARN	Ignoring event 'pageshow' beca1611590345521	Marionette	WARN	Ignoring event 'pageshow' beca1611590369466	Marionette	INFO	Stopped listening on port 55321
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+el closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
